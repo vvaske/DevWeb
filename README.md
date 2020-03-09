@@ -1,1 +1,1 @@
-# fr13nds.github.io
+# DevWeb is just a test repo for new web site
